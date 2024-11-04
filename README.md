@@ -4,20 +4,29 @@ This is a simple web-based calculator built with HTML, CSS, and JavaScript. It p
 
 Features
 Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
-Clear Functionality: A clear button to reset the calculator.
+
+Clear Functionality: A clear button(AC) to reset the calculator.
+
 Error Handling: Alerts for invalid calculations (e.g., division by zero).
+
 Responsive Design: A clean and accessible layout that works on various screen sizes.
+
 Technologies Used
 HTML: For the structure of the calculator.
 CSS: For styling and layout.
 JavaScript: For functionality and handling calculations.
+
 How to Use the Calculator
 Input Values: Click on the number buttons (0-9) to enter values.
+
 Perform Operations:
 Select an operator (+, -, *, /) by clicking the respective button.
 You can also use the decimal point button . for decimal numbers.
+
 Calculate Result: Press the = button to evaluate the expression you entered.
+
 Clear Input: Press the C button to reset the display.
+
 Example Usage
 To calculate 
 5
